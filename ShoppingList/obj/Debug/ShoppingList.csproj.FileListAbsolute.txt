@@ -1,0 +1,7 @@
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe.config
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
